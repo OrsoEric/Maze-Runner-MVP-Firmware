@@ -1,10 +1,9 @@
 # Maze-Runner-MVP-Firmware
 Firmware loaded inside Maze Runner custom RPI hat<br>
 This firmware is meant to provide the minimum features needed to have Maze Runner work. THe MVP demo revealed multiple sever shortcomings that are going to be addressed in coming firmware releases.<br>
-
-:<br>
-[VIDEO of the Maze Runner MVP Demo in action](https://www.youtube.com/watch?v=rEVTI9Kiidc)
 <br>
+[VIDEO of the Maze Runner MVP Demo in action](https://www.youtube.com/watch?v=rEVTI9Kiidc)<br>
+
 Features: <br>
 1) Uniparser V3 decode an ascii message in the form 'VR%dL%d\0' to set the speed of the left and right servo motors<br>
 -13 is the maximum backward speed, +13 is the maximum forward speed
